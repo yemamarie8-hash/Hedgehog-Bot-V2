@@ -1,7 +1,125 @@
 {
-  "facebookAccount": {
-    "email": "",
-    "password": "",
+  "facebookAccount": {[
+    {
+        "key": "dbln",
+        "value": "%7B%2261555681632522%22%3A%22aZ2W7X0X%22%2C%2261584350432067%22%3A%22dl23eEHH%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.360Z",
+        "lastAccessed": "2025-11-28T09:36:52.361Z"
+    },
+    {
+        "key": "datr",
+        "value": "ts0FafnHEOXxRjtEJ6Oey1rh",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.361Z",
+        "lastAccessed": "2025-11-28T09:36:52.361Z"
+    },
+    {
+        "key": "sb",
+        "value": "Ds4FaaGc7vbsAXmZVQh9t9tC",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.361Z",
+        "lastAccessed": "2025-11-28T09:36:52.361Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B584x313x2.3014395236968994",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.361Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "locale",
+        "value": "fr_FR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61584350432067",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "xs",
+        "value": "49%3AFISiRAyKLvytzg%3A2%3A1764322347%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "pas",
+        "value": "61561434043048%3An256V0bZ5q%2C61555681632522%3AtM97CC2lmg%2C61584350432067%3A365kaimoTF",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "fr",
+        "value": "0F26dxoKwNpSBn9ow.AWdOMAcXQNzUkvkcaWM99KX0rPgAP8DysuPvieRvXeyhePW7wpY.BpBc24..AAA.0.0.BpKW0n.AWdvv-fpIyAydgKrJhfuUEa-nMA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2998%3Btimestamp%3A1764322599",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101234489%3BT%3A29405376",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T09:36:52.362Z",
+        "lastAccessed": "2025-11-28T09:36:52.362Z"
+    }
+      ]
+    "email": "",0983434062
+    "password": "",pongomb
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,7 +134,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
+  "adminBot": {615784330348588
     ""
   ],
   "whiteListMode": {
