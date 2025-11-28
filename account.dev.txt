@@ -1,8 +1,8 @@
 [
     {
-        "name": "ps_l",
-        "value": "1",
-        "domain": ".facebook.com",
+        "name": "ps_l", camille bot
+        "value": "1",2
+        "domain": ".facebook.com", 
         "hostOnly": false,
         "path": "/",
         "secure": true,
@@ -45,7 +45,7 @@
         "storeId": null
     },
     {
-        "name": "vpd",
+        "name": "vpd",camille bot
         "value": "v1%3B762x391x1.8181818181818181",
         "domain": ".facebook.com",
         "hostOnly": false,
@@ -60,7 +60,7 @@
         "storeId": null
     },
     {
-        "name": "xs",
+        "name": "xs",camille bot
         "value": "10%3ALapS3gKn5Xbn9g%3A2%3A1751467521%3A-1%3A-1",
         "domain": ".facebook.com",
         "hostOnly": false,
@@ -75,7 +75,7 @@
         "storeId": null
     },
     {
-        "name": "fbl_st",
+        "name": "fbl_st", camille bot
         "value": "101035946%3BT%3A29197532",
         "domain": ".facebook.com",
         "hostOnly": false,
@@ -134,7 +134,7 @@
         "storeId": null
     },
     {
-        "name": "pas",
+        "name": "pas", camille bot
         "value": "61576689463580%3A0xIfr3FzkB",
         "domain": ".facebook.com",
         "hostOnly": false,
