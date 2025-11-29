@@ -1,31 +1,149 @@
 {
-  "facebookAccount": {
-    "email": "",
-    "password": "",
-    "2FASecret": "",
-    "i_user": "",
-    "proxy": null,
+  "facebookAccount":[
+    {
+        "key": "dbln",
+        "value": "%7B%2261555681632522%22%3A%22aZ2W7X0X%22%2C%2261584350432067%22%3A%22dl23eEHH%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.034Z",
+        "lastAccessed": "2025-11-28T22:30:52.035Z"
+    },
+    {
+        "key": "datr",
+        "value": "ts0FafnHEOXxRjtEJ6Oey1rh",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.035Z",
+        "lastAccessed": "2025-11-28T22:30:52.035Z"
+    },
+    {
+        "key": "sb",
+        "value": "Ds4FaaGc7vbsAXmZVQh9t9tC",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.035Z",
+        "lastAccessed": "2025-11-28T22:30:52.035Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B584x313x2.3014395236968994",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.035Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "locale",
+        "value": "fr_FR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61584350432067",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "xs",
+        "value": "49%3AFISiRAyKLvytzg%3A2%3A1764322347%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "pas",
+        "value": "61561434043048%3An256V0bZ5q%2C61555681632522%3AtM97CC2lmg%2C61584350432067%3A365kaimoTF",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "fr",
+        "value": "0F26dxoKwNpSBn9ow.AWddqu5PnKkG_tIWbukEPjZHinW0il7t8dbiPEoMlXndd8fl_tg.BpBc24..AAA.0.0.BpKiKY.AWc3TziSTpwVplGEatZl7wG5CT8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101234639%3BT%3A29406150",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3000%3Btimestamp%3A1764369048",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-28T22:30:52.036Z",
+        "lastAccessed": "2025-11-28T22:30:52.036Z"
+    }
+  ]
+    "email":0983434062
+    "password":2025
+    "2FASecret":2025
+    "i_user":61583993187569
+    "proxy"https://www.facebook.com/profile.php?id=61561434043048
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
     "intervalGetNewCookie": 1440,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
   "antiInbox": false,
-  "language": "en",
+  "language": "en français
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "adminOnly": {
+  "adminOnly":615784330348588
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
+  "adminBot":615784330348588
     ""
-  ],
+  ,
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "➤『 𝙷𝙴𝙳𝙶𝙴𝙷𝙾𝙶𝄞𝙶𝙿𝚃 』☜ヅ",
-  "prefix": "~",
+  "nickNameBot":camille bot
+  "prefix":@
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -89,9 +207,9 @@
   },
   "notiWhenListenMqttError": {
     "notes": "This is the message when the bot is listening to the mqtt server and the mqtt server stops working due to account problems such as: locked acc, blocked due to spam,... bot will automatically send notifications to parts of your settings. You must change enable to true to use this feature. See bot/login/handlerWhenListenHasError.js file for details on how it works",
-    "gmail": {
+    "gmail":0983434062
       "enable": false,
-      "emailGetNoti": "",
+      "emailGetNoti":0983434062
       "note": "Bot will use gmailAccount to send email to emailGetNoti, can send notifications to many email, separate by comma or space, example: \"example1@gmail.com example2@gmail.com\" (without backslash)"
     },
     "telegram": {
@@ -108,7 +226,7 @@
   },
   "hideNotiMessage": {
     "commandNotFound": false,
-    "adminOnly": false,
+    "adminOnly":615784330348588
     "threadBanned": false,
     "userBanned": false,
     "needRoleToUseCmd": false,
@@ -137,5 +255,3 @@
     "autoMarkDelivery": false,
     "autoReconnect": false,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
-  }
-}
